@@ -1,0 +1,10 @@
+D:\Сomp_science\c_sharp\lab-15\lab-15\bin\Debug\lab-15.exe.config
+D:\Сomp_science\c_sharp\lab-15\lab-15\bin\Debug\lab-15.exe
+D:\Сomp_science\c_sharp\lab-15\lab-15\bin\Debug\lab-15.pdb
+D:\Сomp_science\c_sharp\lab-15\lab-15\obj\Debug\lab-15.csproj.AssemblyReference.cache
+D:\Сomp_science\c_sharp\lab-15\lab-15\obj\Debug\lab_15.Form1.resources
+D:\Сomp_science\c_sharp\lab-15\lab-15\obj\Debug\lab_15.Properties.Resources.resources
+D:\Сomp_science\c_sharp\lab-15\lab-15\obj\Debug\lab-15.csproj.GenerateResource.cache
+D:\Сomp_science\c_sharp\lab-15\lab-15\obj\Debug\lab-15.csproj.CoreCompileInputs.cache
+D:\Сomp_science\c_sharp\lab-15\lab-15\obj\Debug\lab-15.exe
+D:\Сomp_science\c_sharp\lab-15\lab-15\obj\Debug\lab-15.pdb
